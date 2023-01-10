@@ -7,3 +7,5 @@ disable input on the calculator so it cannot be manually entered & computer gene
 shortcuts: typing in htlm buttom.operator will create a dive formaula with operator as the class, shift option and down button to copy multiple rows below of the same
 
 Great practice for jumoung into containeers and the grid system for layout 
+
+https://www.youtube.com/watch?v=ptD2kjbQLgs
